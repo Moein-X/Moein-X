@@ -5,8 +5,8 @@
 <h2 align="center">GitHub Stats</h2>
 <div> 
 <p align="center">
-  <img alt="Moein-X's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=Moein-X&show_icons=true&theme=apprentice&border_radius=16"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kittors&layout=compact&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Moein-X&show_icons=true&theme=apprentice&border_radius=16"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moein-X&layout=compact&hide_border=true&theme=apprentice&border_radius=16"/>
 </p>
 </div>
 <br>
