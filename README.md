@@ -6,7 +6,7 @@
 <div> 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Moein-X&show_icons=true&theme=apprentice&border_radius=16"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moein-X&layout=compact&hide_border=true&theme=apprentice&border_radius=16"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moein-X&theme=apprentice&border_radius=16"/>
 </p>
 </div>
 <br>
