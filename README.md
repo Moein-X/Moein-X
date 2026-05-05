@@ -12,6 +12,6 @@
 <div>
 <h2 align="center">Page Views</h2>
 <div align="center">
-<img src="https://count.getloli.com/@Moein-X?theme=original-new" />
+<img src="https://count.getloli.com/@Moein-X?theme=sketch-1" />
   </div>
 <br>
