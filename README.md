@@ -10,7 +10,7 @@
 
 <br>
 <div>
-<h2 align="center">PV (Since 2026)</h2>
+<h2 align="center">Page Views</h2>
 <div align="center">
 <img src="https://count.getloli.com/@Moein-X?theme=original-new" />
   </div>
