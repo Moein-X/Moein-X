@@ -7,6 +7,15 @@
         <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
         <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
         <img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white">
+        <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
+        <img alt="GitLab" src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white">
+        <img alt="docker" src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white">
+        <img alt="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black">
+        <img alt="FireBase" src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black">
+        <img alt="Ngnix" src="https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white">
+        <img alt="Sass" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white">
+        <img alt="Jquery" src="https://img.shields.io/badge/JQUERY-0769AD.svg?&style=flat&logo=jquery&logoColor=white">
+        <img alt="GCP" src="https://img.shields.io/badge/GOOGLE%20CLOUD%20PLATAFORM-4285F4.svg?&style=flat&logo=google-cloud&logoColor=white">
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
         <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
