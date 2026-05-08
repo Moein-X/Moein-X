@@ -10,7 +10,7 @@
         <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
         <img alt="GitLab" src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white">
         <img alt="docker" src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white">
-        <img alt="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black">
+        <img alt="Linux" src="https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black">
         <img alt="FireBase" src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black">
         <img alt="Ngnix" src="https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white">
         <img alt="Sass" src="https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white">
@@ -51,9 +51,9 @@
        <img alt="go" src="https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF">
        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> 
        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Ghostty-1C1B1F?style=plastic&logo=ghostty&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codex-000000?style=plastic&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=plastic&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghostty-1C1B1F?style=flat&logo=ghostty&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white"/>
 
 ## 📅 Hobbies
 </p>
