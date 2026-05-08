@@ -50,12 +50,11 @@
        <img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"> 
        <img alt="go" src="https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF">
        <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> 
-       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"><img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white">
+       <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white">
 <img alt="NVIM" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white">
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">  
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white">  
   <img src="https://img.shields.io/badge/Ghostty-1C1B1F?style=flat&logo=ghostty&logoColor=white"/>
   <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat&logo=anthropic&logoColor=white"/>
-
-## 📅 Hobbies
 </p>
