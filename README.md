@@ -45,7 +45,6 @@
     <img alt="Wine" src="https://img.shields.io/badge/Wine-800000?style=flat&logo=wine&logoColor=white">
     <img alt="FontForge" src="https://img.shields.io/badge/Fontforge-F2712B?style=flat&logo=fontforge&logoColor=white">
     <img alt="Axios" src="https://img.shields.io/badge/Axios_API-5A29E4?style=flat&logo=axios&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
     <img alt="GitLab" src="https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white">
     <img alt="docker" src="https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white">
     <img alt="Blender" src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white">
@@ -66,7 +65,6 @@
     <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white">
     <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white">
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     <img alt="NVIM" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white">
@@ -100,6 +98,8 @@
     <img alt="BlueSky" src="https://img.shields.io/badge/BlueSky-1185FE?style=flat&logo=bluesky&logoColor=white">
     <img alt="X" src="https://img.shields.io/badge/X-black?style=flat&logo=x&logoColor=white">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white">
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white">
 </p>
 
 <h2>Side geek</h2>
